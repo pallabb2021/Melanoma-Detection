@@ -53,9 +53,14 @@ The images were divided into training and testing directories, with data augment
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- tensorflow - version 2.18.0
+- Augmentor - version 0.2.12
+- keras - version 3.8.0
+- numpy - version 1.26.4
+- pandas - version 2.2.2
+- python -version 3.11.11
+- matplotlib - verison 3.10.0
+- PIL - verison 11.1.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
