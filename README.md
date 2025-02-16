@@ -34,18 +34,18 @@ The images were divided into training and testing directories, with data augment
 
 ## Conclusions
 - Conclusion 1 from the analysis \
--- Training accuracy is steadily increasing using training data
--- Validation accuracy is not showing similar results, it increases in the begining and settles around 10 epoch and does not rise up again, showing overfitting     signs
--- The training loss shows a steady decline
--- The validation loss shows decline initially but it shoots up again around epoch 10 & 11 which indicates overfitting case
+-- Training accuracy is steadily increasing using training data \
+-- Validation accuracy is not showing similar results, it increases in the begining and settles around 10 epoch and does not rise up again, showing overfitting signs \
+-- The training loss shows a steady decline \
+-- The validation loss shows decline initially but it shoots up again around epoch 10 & 11 which indicates overfitting case \
   
 - Conclusion 2 from the analysis \
--- Training accuracy is steadily increasing using training data
--- Validation accuracy is fully not following the training set, but it is better than the previous model
--- The training loss shows a steady decline
+-- Training accuracy is steadily increasing using training data \
+-- Validation accuracy is fully not following the training set, but it is better than the previous model \
+-- The training loss shows a steady decline \
 -- The validation loss shows decline initially but it shoots up a bit before epoch 10. The loss is much closer to training loss, which shows the overfitting is     bit handled with the approach
 - Conclusion 3 from the analysis \
--- The overfitting and underfitting problem is handled much better now and the above graph shows the accuracy almost similar in both cases. Also the loss the going down.This was done using Augmentor which created multiple images.
+-- The overfitting and underfitting problem is handled much better now and the above graph shows the accuracy almost similar in both cases. Also the loss the going down.This was done using Augmentor which created multiple images.\
 
 
 
