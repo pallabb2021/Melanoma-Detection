@@ -11,7 +11,7 @@
 
 ## General Information
 - Provide general information about your project here.
-- This is multi class classification of Melanoma. It is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A    solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in        diagnosis.
+- This is multi class classification of Melanoma. It is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A    solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 - What is the background of your project?
 - The project aims to develop a robust model for the early detection and classification of skin cancer using image data. Skin cancer is one of the most common types of cancer worldwide, and early detection is crucial for effective treatment and improved survival rates. The dataset used for this project is sourced from the ISIC (International Skin Imaging Collaboration) archive, which is a comprehensive collection of dermoscopic images of various skin cancer types, including melanoma.
 - What is the business probem that your project is trying to solve?
@@ -37,7 +37,7 @@ The images were divided into training and testing directories, with data augment
 -- Training accuracy is steadily increasing using training data \
 -- Validation accuracy is not showing similar results, it increases in the begining and settles around 10 epoch and does not rise up again, showing overfitting signs \
 -- The training loss shows a steady decline \
--- The validation loss shows decline initially but it shoots up again around epoch 10 & 11 which indicates overfitting case \
+-- The validation loss shows decline initially but it shoots up again around epoch 10 & 11 which indicates overfitting case
   
 - Conclusion 2 from the analysis \
 -- Training accuracy is steadily increasing using training data \
