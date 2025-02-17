@@ -35,9 +35,9 @@ The images were divided into training and testing directories, with data augment
 ## Conclusions
 - Conclusion 1 from the analysis \
 -- Training accuracy is steadily increasing using training data \
--- Validation accuracy is not showing similar results, it increases in the begining and settles around 10 epoch and does not rise up again, showing overfitting signs \
+-- Validation accuracy is not showing similar results, it increases in the begining and settles around 5 epoch and does not rise up again, showing overfitting signs \
 -- The training loss shows a steady decline \
--- The validation loss shows decline initially but it shoots up again around epoch 10 & 11 which indicates overfitting case
+-- The validation loss shows decline initially but it shoots up again around epoch 5 which indicates overfitting case
   
 - Conclusion 2 from the analysis \
 -- Training accuracy is steadily increasing using training data \
